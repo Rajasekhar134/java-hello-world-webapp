@@ -1,4 +1,4 @@
-FROM tomact
+FROM tomcat
 LABEL written by raja
 WORKDIR /usr/local/tomcat/webapps
 COPY **/*.war .
