@@ -19,7 +19,7 @@
     </dependencies>
 
     <build>
-        <finalName>java-hello-world</finalName>
+        <finalName>java-hello-world 2</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
